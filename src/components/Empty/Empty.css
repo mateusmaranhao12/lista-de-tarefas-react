@@ -1,0 +1,15 @@
+.container-empty {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    flex-direction: column;
+    gap: 16px;
+    color: #9495a5;
+
+}
+
+.container-empty img {
+    width: 150px;
+    height: auto;
+}

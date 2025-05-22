@@ -1,0 +1,25 @@
+.content-tasks__actions,
+.task-item {
+    padding: 20px 24px;
+    height: 64px;
+}
+
+.content-tasks__actions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    border-top: 1px solid rgb(187, 187, 187);
+}
+
+.content-tasks__actions a {
+    font-size: 14px;
+    font-weight: 400;
+    color: #9495a5;
+    text-decoration: none;
+}
+
+.content-tasks__actions div {
+    display: flex;
+    gap: 8px;
+}
